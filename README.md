@@ -56,11 +56,11 @@ The main script performs the following steps:
 - Logs evaluation metrics
 - Saves visualizations to results/ directory
 
-## ▶️ Usage
+##  Usage
 
 This repository contains a research prototype for graph-based jet generation using latent diffusion models.
 
-## ⚠️ Note:
+##  Note:
 Dataset paths, hyperparameters, and output locations may need to beadjusted depending on the local environment and JetNet configuration.
 
  
