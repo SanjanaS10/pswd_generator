@@ -1,4 +1,3 @@
-
 # JetNet Graph Diffusion Model
 
 A PyTorch/PyTorch-Geometric implementation of a **graph-based diffusion model** for generating realistic jets from the [JetNet dataset](https://huggingface.co/datasets/jetnet).  
@@ -42,11 +41,6 @@ scikit-learn
 jetnet
 ```
 
-To run the main workflow:
-```sh
-python code.py
-```
-
 ## 📜 Script Overview
 
 The main script performs the following steps:
@@ -61,9 +55,12 @@ The main script performs the following steps:
 
 This repository contains a research prototype for graph-based jet generation using latent diffusion models.
 
+## To run the main workflow:
+
+python code.py
+
+
 ## ⚠️ Note:
 Dataset paths, hyperparameters, and output locations may need to beadjusted depending on the local environment and JetNet configuration.
 
-## 📄 License
-
-This project is part of the ML4Sci GENIE repository and follows the licensing terms specified in the parent repository.
+ 
