@@ -51,10 +51,8 @@ The main script performs the following steps:
 - Logs evaluation metrics
 - Saves visualizations to results/ directory
 
-## To run the main workflow:
-```sh
-python code.py
-```
+## To run the main workflow ,execute `python code.py`.
+
 ##  Usage
 
 This repository contains a research prototype for graph-based jet generation using latent diffusion models.
