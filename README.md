@@ -41,11 +41,6 @@ scikit-learn
 jetnet
 ```
 
-## To run the main workflow:
-```sh
-python code.py
-```
-
 ## 📜 Script Overview
 
 The main script performs the following steps:
@@ -56,11 +51,15 @@ The main script performs the following steps:
 - Logs evaluation metrics
 - Saves visualizations to results/ directory
 
+## To run the main workflow:
+```sh
+python code.py
+```
 ##  Usage
 
 This repository contains a research prototype for graph-based jet generation using latent diffusion models.
 
 ##  Note:
-Dataset paths, hyperparameters, and output locations may need to beadjusted depending on the local environment and JetNet configuration.
+Dataset paths, hyperparameters, and output locations may need to be adjusted depending on the local environment and JetNet configuration.
 
  
