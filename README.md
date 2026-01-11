@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 requirements.txt
-```sh
+```text
 numpy==1.24.3
 torch==2.0.0
 torch-geometric
